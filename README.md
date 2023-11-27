@@ -1,4 +1,5 @@
 Name: varsha.k
+
 Referance no:23005952
 
 # Study of basic digital ICs and verification of truth tables for different logic gates realization
