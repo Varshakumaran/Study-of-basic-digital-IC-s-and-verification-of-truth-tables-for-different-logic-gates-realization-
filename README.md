@@ -3,9 +3,8 @@ Name: varsha.k
 Referance no:23005952
 
 # Study of basic digital ICs and verification of truth tables for different logic gates realization
-name : varsha.k
-reference number: 23005952
- AIM:
+
+AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
 Equipments Required:
