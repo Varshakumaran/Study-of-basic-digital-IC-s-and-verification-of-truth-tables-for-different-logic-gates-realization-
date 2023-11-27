@@ -59,17 +59,26 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
+Program
 ```
-
-module project_1(A,B,Y);
-input A,B;
-output Y;
-assign Y= A&B;
+module logic gates ( a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y3,y4,y5,y6,y7;
+and (y1,a,b);
+or (y2,a,b);
+not (y3,a);
+xor (y4,a,b);
+nand (y5,a,b);
+nor (y6,a,b);
+xnor ( y7,a,b);
 endmodule
 ```
+
+
+
 RTL realisation:
-![image](https://github.com/Varshakumaran/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979367/a14e0263-0fbd-4141-abdc-ca61685e1e3e)
+![image](https://github.com/Varshakumaran/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979367/b7361057-1088-4e9d-a51e-771cfaa92362)
+
 Truth table:
 ![image](https://github.com/Varshakumaran/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979367/cb2d448c-93a4-4213-a66d-e6866bb356df)
 Result:
