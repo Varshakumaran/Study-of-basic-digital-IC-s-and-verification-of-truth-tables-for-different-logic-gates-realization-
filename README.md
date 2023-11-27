@@ -1,4 +1,7 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+Name: varsha.k
+Referance no:23005952
+
+# Study of basic digital ICs and verification of truth tables for different logic gates realization
 name : varsha.k
 reference number: 23005952
  AIM:
@@ -81,5 +84,9 @@ RTL realisation:
 
 Truth table:
 ![image](https://github.com/Varshakumaran/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979367/cb2d448c-93a4-4213-a66d-e6866bb356df)
+Timing line:
+![image](https://github.com/Varshakumaran/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979367/6eb24583-a78d-4276-81a6-94d9318973c5)
+
+
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
